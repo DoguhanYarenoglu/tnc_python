@@ -1,0 +1,17 @@
+[
+  {
+    "baslik": "Anna Karanina",
+    "yazar": "Lev Tolstoy",
+    "okundu": true
+  },
+  {
+    "baslik": "Kumandani Öldürmek",
+    "yazar": "Murakami",
+    "okundu": true
+  },
+  {
+    "baslik": "Yüzüklerin Efendisi",
+    "yazar": "J.R.R Tolkien",
+    "okundu": true
+  }
+]
